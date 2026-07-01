@@ -12,7 +12,7 @@ Cerca de 99% do jogo está traduzido e apenas 50% revisado.
 
 # 📥 DOWNLOAD
 
-## 👉 [CLIQUE AQUI PARA BAIXAR](https://github.com/Ahtheerr/P3P-Instalador-Tradu-o/releases/tag/Instalador) 👈
+## 👉 [CLIQUE AQUI PARA BAIXAR](https://github.com/Hinrong/P3P-Traduzido-Switch/releases/tag/patch) 👈
 *(Certifique-se de baixar o arquivo `P3P_Switch_PTBR_Atlantis.zip` na seção "Assets", e não o zip do código)*
 
 ---
